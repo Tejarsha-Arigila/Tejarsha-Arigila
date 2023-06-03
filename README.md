@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tejarsha-Arigila.
+- 👀 I’m interested in Cyber Security, Data Science and Web Development.
+- 🌱 I’m currently learning OpenCV.
+- 📫 How to reach me : arigilatejarsha@gmail.com

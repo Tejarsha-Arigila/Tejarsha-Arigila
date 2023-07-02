@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tejarsha-Arigila&label=Profile%20views&color=0e75b6&style=flat" alt="Tejarsha-Arigila" /> </p>
 - 👋 Hi, I’m @Tejarsha-Arigila.
 - 👀 I’m interested in Data Science, Cyber Security and Web Development.
 - 🌱 I’m currently learning OpenCV.

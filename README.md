@@ -8,7 +8,7 @@
 
 # Hi there, I’m Tejarsha-Arigila! 👋
 
-Currently pursuing my master's degree in **Computer Science** at **KU** ![Jayhawk](jayhawk.png), I navigate through various realms of technology, fueled by my insatiable curiosity. My true passion lies in leveraging technology to drive societal impact. I eagerly seek opportunities to make a **meaningful difference**, aligning my learning journey with the transformative power of technology.
+Currently pursuing my master's degree in **Computer Science** at ![KU](jayhawk.png), I navigate through various realms of technology, fueled by my insatiable curiosity. My true passion lies in leveraging technology to drive societal impact. I eagerly seek opportunities to make a **meaningful difference**, aligning my learning journey with the transformative power of technology.
 
 
 I’m currently focusing on **Data Science, Cyber Security** and **Web Development**.

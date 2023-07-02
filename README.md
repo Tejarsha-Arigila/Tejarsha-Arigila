@@ -1,6 +1,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-arigilatejarsha@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arigilatejarsha@gmail.com)](mailto:arigilatejarsha@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-arigila-tejarsha-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arigila-tejarsha/)](https://www.linkedin.com/in/arigila-tejarsha/) 
-[![Github Badge](https://img.shields.io/badge/-Tejarsha-Arigila-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Tejarsha-Arigila/)](https://www.github.com/Tejarsha-Arigila/)
+[![Linkedin Badge](https://img.shields.io/badge/-arigila_tejarsha-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arigila-tejarsha/)](https://www.linkedin.com/in/arigila-tejarsha/) 
+[![Github Badge](https://img.shields.io/badge/-Tejarsha_Arigila-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Tejarsha-Arigila/)](https://www.github.com/Tejarsha-Arigila/)
 
 <div align="center"> 
 

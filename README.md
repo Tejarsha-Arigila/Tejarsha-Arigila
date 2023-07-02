@@ -4,6 +4,7 @@
 - 👀 I’m interested in Data Science, Cyber Security and Web Development.
 - 🌱 I’m currently learning OpenCV.
 - 📫 How to reach me : arigilatejarsha@gmail.com
+- ⚡ Fun fact **Time Magazine named the computer the "Man of the Year" in 1982.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -46,3 +47,5 @@
 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tejarsha-Arigila&show_icons=true&locale=en" alt="Tejarsha-Arigila" /></p>

@@ -1,10 +1,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Tejarsha-Arigila&label=Profile%20views&color=0e75b6&style=flat" alt="Tejarsha-Arigila" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tejarsha-Arigila" alt="Tejarsha-Arigila" /></a> 
-</p>
-
 - 👋 Hi, I’m Tejarsha-Arigila.
 - 👀 I’m interested in Data Science, Cyber Security and Web Development.
 - 🌱 I’m currently learning OpenCV.

@@ -39,8 +39,6 @@ I’m interested in **Data Science, Machine Learning, Cyber Security** and **Web
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejarsha-Arigila&show_icons=true&locale=en)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tejarsha-Arigila&)
 
 </div>

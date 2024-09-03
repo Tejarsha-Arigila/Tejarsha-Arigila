@@ -1,14 +1,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-arigilatejarsha@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arigilatejarsha@gmail.com)](mailto:arigilatejarsha@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-arigila_tejarsha-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arigila-tejarsha/)](https://www.linkedin.com/in/arigila-tejarsha/) 
-[![Github Badge](https://img.shields.io/badge/-Tejarsha_Arigila-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Tejarsha-Arigila/)](https://www.github.com/Tejarsha-Arigila/)
 
 <div align="center"> 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tejarsha-Arigila&label=Profile%20views&color=0e75b6&style=flat)
 
-# Hi there, I’m Tejarsha-Arigila! 👋
+# Hi there, I’m Tejarsha! 👋
 
-Currently pursuing my master's degree in **Computer Science** at ![KU](jayhawk.png), I navigate through various realms of technology, fueled by my insatiable curiosity. My true passion lies in leveraging technology to drive societal impact. I eagerly seek opportunities to make a **meaningful difference**, aligning my learning journey with the transformative power of technology.
+![KU](jayhawk.png) 
+
+I navigate through various realms of technology, fueled by my insatiable curiosity. My true passion lies in leveraging technology to drive societal impact. I eagerly seek opportunities to make a **meaningful difference**, aligning my learning journey with the transformative power of technology.
 
 
 I’m interested in **Data Science, Machine Learning, Cyber Security** and **Web Development**.

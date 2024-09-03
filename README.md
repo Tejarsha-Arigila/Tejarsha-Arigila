@@ -11,9 +11,9 @@
 Currently pursuing my master's degree in **Computer Science** at ![KU](jayhawk.png), I navigate through various realms of technology, fueled by my insatiable curiosity. My true passion lies in leveraging technology to drive societal impact. I eagerly seek opportunities to make a **meaningful difference**, aligning my learning journey with the transformative power of technology.
 
 
-I’m currently focusing on **Data Science, Machine Learning, Cyber Security** and **Web Development**.
+I’m interested in **Data Science, Machine Learning, Cyber Security** and **Web Development**.
 
-🌱 I’m currently learning OpenCV.
+🌱 I’m currently working on Aggregation Free Federated Learning.
 
 📫 You can reach me at: `arigilatejarsha@gmail.com`
 
